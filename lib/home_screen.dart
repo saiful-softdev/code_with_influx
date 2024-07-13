@@ -26,6 +26,7 @@ class _HomeScreenState extends State<HomeScreen> {
             children: [
               Text(
                 "Result : 108",
+                //follow the scrren shot image
                 style: TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 26,
